@@ -1,4 +1,4 @@
-### Hi there, I'm Satria kurang cebok 👋
+### Hi there, I'm RIAN-XD 👋
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
