@@ -1,14 +1,14 @@
-### Hi there, I'm RIAN-XD  👋
+### Hi there, I'm Satria kurang cebok 👋
 
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/Code/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Code&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code&layout=compact&theme=monokai&langs_count=12"/><br />
+<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
 <!--
-**StarAPN/StarAPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SatriaAPN/SatriaAPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
