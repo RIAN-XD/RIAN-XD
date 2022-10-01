@@ -34,7 +34,7 @@ ____
 
 ____
 
-![i.jpeg](https://github.com/RIAN-XD/RIAN-XD/blob/7b7c54582f6ca946e4228fac0881871d328ed5cb/i.jpeg)
+![i.jpeg](https://github.com/RIAN-XD/RIAN-XD/blob/05a91ec6aebee208c08ae3fa046b0277fd96083c/i.jpeg)
 
 ____
 
