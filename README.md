@@ -2,6 +2,9 @@ ____
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=10000&color=F70000&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang%2C+Jangan+Lupa+DiFollow+My+GitHub%F0%9F%98%87%F0%9F%98%87)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=haii'my+name+verdi+🗿🙏.;'suport+my+acount+github🗿." alt="verdibotz">
+</p>
 ____
 
 #### •> Github data <•
