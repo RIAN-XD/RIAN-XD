@@ -12,11 +12,7 @@ ____
 
 >
 
-* **Visitor Github @RIAN-XD**
-
 ![DUMAI-991](https://komarev.com/ghpvc/?username=RIAN-XD&color=green)
-
-* **Visitor Github @RIAN-XD**
 
 ![DUMAI-200](https://komarev.com/ghpvc/?username=RIAN-XD&color=red)
 
