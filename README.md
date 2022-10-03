@@ -19,11 +19,6 @@ ____
 >
 
 ____
-#### •> team projeck <•
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=10000&color=F70000&center=true&vCenter=true&multiline=true&width=600&lines=Rian+x+nano+•+Ilham+rk%F0%9F%98%87%F0%9F%98%87)](https://git.io/typing-svg)
-
-
 
 ____
 
