@@ -9,7 +9,6 @@ ____
 ____
 
 #### •> Github data <•
-
 >
 
 ![DUMAI-991](https://komarev.com/ghpvc/?username=RIAN-XD&color=green)
@@ -17,11 +16,7 @@ ____
 ![DUMAI-200](https://komarev.com/ghpvc/?username=RIAN-XD&color=red)
 
 >
-
 ____
-
-____
-
 #### • contact me •
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <br><br>
