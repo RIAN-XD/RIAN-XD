@@ -8,7 +8,7 @@ src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height
 [![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brightgreen&labelColor=white)](https://www.facebook.com/profile.php?id=100000317395327) <b><b>
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=WhatsApp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <br><br>
 ``
-RIAN X NANO
+RIAN X NANO & MY TEAM
 ``
 ____
 ***Download*** _Termux_ _no_ _eror_ <a href="https://f-droid.org/en/packages/com.termux/">click</a>
