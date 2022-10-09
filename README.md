@@ -6,7 +6,7 @@ src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <br><br>
 [![](https://img.shields.io/badge/Facebook-CHAT-blue?logo=Facebook&logoColor=Brightgreen&labelColor=white)](https://www.facebook.com/profile.php?id=100000317395327) <b><b>
 ``
- My team programmer Indonesia
+ My team programmer
 ``
 [Jeeck_XD](https://github.com/Jeeck-XD) | [Fall_Xavier](https://github.com/Fall-Xavier) | [AngCyber](https://github.com/AngCyber)
 --|--|--
