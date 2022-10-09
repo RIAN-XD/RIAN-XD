@@ -3,7 +3,7 @@
 src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height="110" align="left">
 <center>
 
-![RIAN-XD](https://komarev.com/ghpvc/?username=RIAN-XD&color=green)
+![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=green)
 [![](https://img.shields.io/badge/YouTube-white?logo=YouTube&logoColor=Brightgreen&labelColor=red)](https://youtube.com/channel/UCYLNKvdRs5hxWt9gNvdmkvQ) <b><b>
 [![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brightgreen&labelColor=white)](https://www.facebook.com/profile.php?id=100000317395327) <b><b>
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <br><br>
