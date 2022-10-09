@@ -1,8 +1,8 @@
-````
+``
 hi my name is Rian
 I come from South Sumatra
-Don't forget to follow my github account 
-````
+``
+----
 <img 
 src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height="110" align="left">
 <center>
