@@ -10,6 +10,10 @@ ____
 [Jeeck_XD](https://github.com/Jeeck-XD) | [Fall_Xavier](https://github.com/Fall-Xavier) | [AngCyber](https://github.com/AngCyber)
 --|--|--
 ![Jeeck_XD](https://avatars.githubusercontent.com/Jeeck-XD?s=150&v=1) | ![Fall_Xavier](https://avatars.githubusercontent.com/Fall-Xavier?s=150&v=1) | ![AngCyber](https://avatars.githubusercontent.com/AngCyber?s=150&v=1)
+
+[Aryo_X2](http://github.com/Aryo-X2) | [Flame_XD](http://github.com/FLAME-XD) | [kosong](https://github.com/ILHAM-RK) |
+--|--|--
+![Aryo_X2](https://avatars.githubusercontent.com/u/108672226?v=4) | ![FLAME-XD](https://avatars.githubusercontent.com/u/106291265?v=4) |
 ----
 <div align="center">
 	<br>
