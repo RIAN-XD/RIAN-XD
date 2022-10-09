@@ -7,8 +7,8 @@ src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <br><br>
 [![](https://img.shields.io/badge/Facebook-CHAT-blue?logo=Facebook&logoColor=Brightgreen&labelColor=white)](https://www.facebook.com/profile.php?id=100000317395327) <b><b>
 ____
-[follow my github account](https://github.com/RIAN-XD)
---|
+[Follow github saya](https://github.com/RIAN-XD) | [tekan](https://github.com/RIAN-XD)
+--|--|
 ----
 [Yayan_XD](https://github.com/Yayan-XD) | [Dumai_991](https://github.com/Dumai-991) | [SetaGanz](https://github.com/SetaGanz) | [Dapunta_ID](https://github.com/Dapunta) | [Latip176](https://github.com/Latip176)
 --|--|--|--|--
