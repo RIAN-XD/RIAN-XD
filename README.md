@@ -6,7 +6,10 @@ src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=green)
 [![](https://img.shields.io/badge/YouTube-white?logo=YouTube&logoColor=Brightgreen&labelColor=red)](https://youtube.com/channel/UCYLNKvdRs5hxWt9gNvdmkvQ) <b><b>
 [![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brightgreen&labelColor=white)](https://www.facebook.com/profile.php?id=100000317395327) <b><b>
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <br><br>
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=WhatsApp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <br><br>
+____
+***Download*** _Termux_ _no_ _eror_ <a href="https://f-droid.org/en/packages/com.termux/">click</a>
+_Download_ ***Pydroid*** _3_  _Mod_ <a href="https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1">click</a>
 ____
 [Yayan_XD](https://github.com/Yayan-XD) | [Dumai_991](https://github.com/Dumai-991) | [SetaGanz](https://github.com/SetaGanz) | [Dapunta_ID](https://github.com/Dapunta) | [Latip176](https://github.com/Latip176)
 --|--|--|--|--
