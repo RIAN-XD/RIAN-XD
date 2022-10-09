@@ -11,13 +11,13 @@ ____
 --|--|--|--|--
 ![Yayan_XD](https://avatars.githubusercontent.com/u/69158355?v=4) | ![Dumai_991](https://avatars.githubusercontent.com/u/76860656?v=4) | ![SetaGanz](https://avatars.githubusercontent.com/u/92007671?v=4) | ![Dapunta_ID](https://avatars.githubusercontent.com/u/76211798?v=4) | ![Latip176](https://avatars.githubusercontent.com/u/68332606?v=4)
 
-[Jeeck_XD](https://github.com/Jeeck-XD) | [Fall_Xavier](https://github.com/Fall-Xavier) | [AngCyber](https://github.com/AngCyber) | [Mitsuki_ID](https://github.com/MITSUKI-IID)
---|--|--|--
-![Jeeck_XD](https://avatars.githubusercontent.com/Jeeck-XD?s=150&v=1)|![Fall_Xavier](https://avatars.githubusercontent.com/Fall-Xavier?s=150&v=1) | ![AngCyber](https://avatars.githubusercontent.com/AngCyber?s=150&v=1)|![Mitsuki_ID](https://avatars.githubusercontent.com/u/50609539?v=4)
+[Jeeck_XD](https://github.com/Jeeck-XD) | [Fall_Xavier](https://github.com/Fall-Xavier) | [AngCyber](https://github.com/AngCyber) | [Mitsuki_ID](https://github.com/MITSUKI-IID) | [RozhakXD](https://github.com/RozhakXD)
+--|--|--|--|--
+![Jeeck_XD](https://avatars.githubusercontent.com/Jeeck-XD?s=150&v=1)|![Fall_Xavier](https://avatars.githubusercontent.com/Fall-Xavier?s=150&v=1) | ![AngCyber](https://avatars.githubusercontent.com/AngCyber?s=150&v=1)|![Mitsuki_ID](https://avatars.githubusercontent.com/u/50609539?v=4) | ![RozhakXD](https://avatars.githubusercontent.com/u/65714340?v=4)
 
-[Aryo_X2](http://github.com/Aryo-X2) | [Flame_XD](http://github.com/FLAME-XD) | [Mbokey](https://github.com/Mbokey) | [Nazri_XD](https://github.com/Nazri-XD)
---|--|--|--
-![Aryo_X2](https://avatars.githubusercontent.com/u/108672226?v=4) | ![FLAME-XD](https://avatars.githubusercontent.com/u/106291265?v=4) | ![Mbokey](https://avatars.githubusercontent.com/u/93440597?v=4) | ![Nazri_XD](https://avatars.githubusercontent.com/NAZRI-XD)
+[Aryo_X2](http://github.com/Aryo-X2) | [Flame_XD](http://github.com/FLAME-XD) | [Mbokey](https://github.com/Mbokey) | [Nazri_XD](https://github.com/Nazri-XD) | [RozhBasXYZ](https://github.com/RozhBasXYZ)
+--|--|--|--|--
+![Aryo_X2](https://avatars.githubusercontent.com/u/108672226?v=4) | ![FLAME-XD](https://avatars.githubusercontent.com/u/106291265?v=4) | ![Mbokey](https://avatars.githubusercontent.com/u/93440597?v=4) | ![Nazri_XD](https://avatars.githubusercontent.com/NAZRI-XD) | ![RozhBasXYZ](https://avatars.githubusercontent.com/u/103634965?v=4)
 ----
 <div align="center">
 	<br>
