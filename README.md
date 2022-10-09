@@ -13,11 +13,9 @@ src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height
 
 ![RIAN-XD](https://komarev.com/ghpvc/?username=RIAN-XD&color=green)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <br><br>
-``my profile
-``
->
->
-> #### my team programer
+
+> 
+
 
 [Jeeck_XD](https://github.com/Jeeck-XD) | [Fall_Xavier](https://github.com/Fall-Xavier) | [AngCyber](https://github.com/AngCyber)
 --|--|--
