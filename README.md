@@ -7,6 +7,9 @@ src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <br><br>
 [![](https://img.shields.io/badge/Facebook-CHAT-blue?logo=Facebook&logoColor=Brightgreen&labelColor=white)](https://www.facebook.com/profile.php?id=100000317395327) <b><b>
 ____
+[follow my github account](https://github.com/RIAN-XD/RIAN-XD)
+--|
+
 [Yayan_XD](https://github.com/Yayan-XD) | [Dumai_991](https://github.com/Dumai-991) | [SetaGanz](https://github.com/SetaGanz) | [Dapunta_ID](https://github.com/Dapunta) | [Latip176](https://github.com/Latip176)
 --|--|--|--|--
 ![Yayan_XD](https://avatars.githubusercontent.com/u/69158355?v=4) | ![Dumai_991](https://avatars.githubusercontent.com/u/76860656?v=4) | ![SetaGanz](https://avatars.githubusercontent.com/u/92007671?v=4) | ![Dapunta_ID](https://avatars.githubusercontent.com/u/76211798?v=4) | ![Latip176](https://avatars.githubusercontent.com/u/68332606?v=4)
