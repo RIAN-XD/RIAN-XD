@@ -7,9 +7,15 @@ ____
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RIAN-XD) <a href="https://github.com/RIAN-XD">My github</a>  
 >
 ____
-![i.jpeg](https://github.com/RIAN-XD/RIAN-XD/blob/05a91ec6aebee208c08ae3fa046b0277fd96083c/i.jpeg)
-____
+# bdougie has <!-- follower-counter -->1656<!-- /follower-counter --> followers
 
+[jeeckXD](https://github.com/aprilspeight) | [FallXavier](https://github.com/Brawrdon) | [AngCyber](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+--- | --- | --- | ---
+![@aprilspeight](https://avatars.githubusercontent.com/Jeeck-XD?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Fall-Xavier?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/AngCyber?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
+
+[@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
+--- | --- | --- | ---
+![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
 
 
 
