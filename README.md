@@ -11,8 +11,8 @@ src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height
 RIAN X NANO & INDONESIA CODER
 ``
 ____
-[unduh Termux new version](https://f-droid.org/en/packages/com.termux/) | [unduh pydroid pro mod apk](https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1)
---|--
+[unduh Termux new version](https://f-droid.org/en/packages/com.termux/) | [unduh pydroid pro mod apk](https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1) | [unduh Quick edit]()
+--|--|--
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWALn9eow0txGTb8_cjw0sV4EqSH3Q6h4_-Kuk_mp5DWd8stROiUR_3Ss&s=10) | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqnnG4w74p9ILg50ks0YP330aRiBbUc7lo4MF1uKbzhECAxjaZfuK0vNnl&s=10)
 ____
 [Yayan_XD](https://github.com/Yayan-XD) | [Dumai_991](https://github.com/Dumai-991) | [SetaGanz](https://github.com/SetaGanz) | [Dapunta_ID](https://github.com/Dapunta) | [Latip176](https://github.com/Latip176)
