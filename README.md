@@ -1,3 +1,4 @@
+![](https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 ----
 <img 
 src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height="110" align="left">
