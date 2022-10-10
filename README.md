@@ -11,7 +11,7 @@ src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height
 RIAN X NANO & INDONESIA CODER
 ``
 ____
-[unduh Termux](https://f-droid.org/en/packages/com.termux/) | [unduh pydroid3](https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1) | [unduh Quickedit](https://apkdone.com/id/quickedit-text-editor/) | [unduh Acode](https://apksolo.com/id/acode-powerful-code-editor-mod)
+[Termux](https://f-droid.org/en/packages/com.termux/) | [pydroid3](https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1) | [Quickedit](https://apkdone.com/id/quickedit-text-editor/) | [Acode](https://apksolo.com/id/acode-powerful-code-editor-mod)
 --|--|--|--
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWALn9eow0txGTb8_cjw0sV4EqSH3Q6h4_-Kuk_mp5DWd8stROiUR_3Ss&s=10) | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqnnG4w74p9ILg50ks0YP330aRiBbUc7lo4MF1uKbzhECAxjaZfuK0vNnl&s=10) | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsPL9EaRIuDLYaRi_SDZM4QF8xgSb8sbX-Q&usqp=CAU) | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjEOeynnt-8rR31bvUC_m_g9A-TYKz8AUBA&usqp=CAU)
 ____
