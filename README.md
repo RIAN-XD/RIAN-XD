@@ -9,7 +9,7 @@ src="https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1" width="110" height
 [![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brightgreen&labelColor=white)](https://www.facebook.com/profile.php?id=100000317395327) <b><b>
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=WhatsApp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <br><br>
 ``
-RIAN X NANO & INDONESIA CODER
+INDONESIA CODER
 ``
 ____
 [Termux](https://f-droid.org/en/packages/com.termux/) | [pydroid3](https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1) | [Quickedit](https://apkdone.com/id/quickedit-text-editor/) | [Acode](https://apksolo.com/id/acode-powerful-code-editor-mod)
