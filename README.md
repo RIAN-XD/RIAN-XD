@@ -2,10 +2,8 @@
 |-|-|
 ![](https://avatars.githubusercontent.com/RIAN-XD?s=110&v=1) | 🙋Hey welcome to my github account 😇 Introduce my name is Rian, I come from Indonesia Don't forget to follow my github account and star the repository that I uploaded, thank you 🙏
 
-|||||
-|-|-|-|-|
 [![](https://img.shields.io/badge/YouTube-white?logo=YouTube&logoColor=Brightgreen&labelColor=red)](https://youtube.com/channel/UCYLNKvdRs5hxWt9gNvdmkvQ) <b><b> | [![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brightgreen&labelColor=white)](https://www.facebook.com/BLACKHAT.GO.ID) <b><b> | [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=WhatsApp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285874085305?text=Asalamualaikum+bang) <b><b> | ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=green)
-
+|-|-|-|-|
 
 |✅|follow their github so as not to miss the latest updates
 |-|-|
